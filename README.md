@@ -7,12 +7,18 @@ C'était l'une de mes premières traductions et d'entrer/découvertes dans le mo
 
 ## Installation
 Pour Installer cette traduction de mod, vous devez avoir la version Steam et suivre les étapes ci-dessous :
+
 1: Télécharger [DeltaPatcher](https://github.com/marco-calautti/DeltaPatcher)
+
 2: Télécharger Undertale-BnP-French-Unfinished-Build.xdelta dans Release
+
 3: Télécharger Undertale Bits And Pieces [(Version: 4.3.2)](https://gamejolt.com/get/build?game=574044&build=1483772)
+
 4: Dans DeltaPatcher, choisissez votre data.win dans votre dossier Undertale (il doit etre non modifiée) pour Original File
    et pour xDelta patch, choisissez le fichier utbnp-v4.3.2-prev.xdelta et suivez les instructions du mod de base [ici](https://docs.google.com/document/d/1GsoCjAUdZp5HXX6AhLMxiNST25yjpJDzUNdGg83RW10/edit?usp=sharing)
+
 5: Ensuite, choisissez le data.win patchée (le meme data.win) pour Original File et Undertale-BnP-French-Unfinished-Build.xdelta pour xDelta patch
+
 6: Et pour finir, télécharger le dossier lang et placer le dans votre dossier Undertale et voilà !!!
 
 ## Le Code
